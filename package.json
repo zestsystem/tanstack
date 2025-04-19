@@ -13,10 +13,13 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@tailwindcss/postcss": "^4.1.4",
         "@tanstack/react-router": "^1.116.0",
         "@tanstack/react-start": "^1.116.1",
+        "postcss": "^8.5.3",
         "react": "^19.1.0",
         "react-dom": "^19.1.0",
+        "tailwindcss": "^4.1.4",
         "vinxi": "^0.5.4"
     },
     "devDependencies": {
